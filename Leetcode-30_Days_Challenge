@@ -1,0 +1,167 @@
+73. Set Matrix Zeroes
+
+class Solution {
+    public void setZeroes(int[][] matrix) {
+        int col0 = 1;
+        int n = matrix.length;
+        int m = matrix[0].length;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (matrix[i][j] == 0) {
+                    matrix[i][0] = 0;
+                    if (j != 0)
+                        matrix[0][j] = 0;
+                    else
+                        col0 = 0;
+                }
+            }
+        }
+        for (int i = 1; i < n; i++) {
+            for (int j = 1; j < m; j++) {
+                if (matrix[i][j] != 0) {
+                    if ( matrix[i][0] == 0 || matrix[0][j] == 0) {
+                        matrix[i][j] = 0;
+                    }
+                }
+            }
+        }
+        if (matrix[0][0] == 0) {
+            for (int i = 0; i < m; i++) {
+                matrix[0][i] = 0;
+            }
+        }
+        if (col0 == 0) {
+            for (int i = 0; i < n; i++) {
+                matrix[i][0] = 0;
+            }
+        }
+    }
+}
+
+31. Next Permutation
+
+class Solution {
+     private void reverse(int[] arr, int start, int end) {
+        while (start < end) {
+            swap(arr, start, end);
+            start++;
+            end--;
+        }
+    }
+
+
+    private void swap(int[] arr, int i, int j) {
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+    public void nextPermutation(int[] nums) {
+        int n = nums.length;
+        int breakindex = -1;
+        for(int i = n-2;i>=0;i--){
+            if(nums[i]<nums[i+1]){
+                breakindex = i;
+                break;
+            }
+        }
+         if (breakindex == -1) {
+            reverse(nums, 0, nums.length - 1);
+            return;
+        }
+        int near = -1;
+        for(int i = n-1;i>=breakindex+1;i--){
+            if(nums[breakindex]<nums[i] ){
+                    near = i;
+                    break;
+            }
+        }
+        int swap = nums[breakindex];
+        nums[breakindex] = nums[near];
+        nums[near] = swap;
+        reverse(nums, breakindex + 1, nums.length - 1);
+    }
+}
+
+75. Sort Colors
+
+class Solution {
+    public void sortColors(int[] nums) {
+        int n = nums.length;
+        int high = n-1, low = 0, mid = 0;
+
+       while(low<=high && mid<=high){
+        if(nums[mid]==0){
+            int swap = nums[low];
+            nums[low] = nums[mid];
+            nums[mid] = swap;
+            low++;
+            mid++;
+        }
+        else if(nums[mid]==1){
+            mid++;
+        }
+        else{
+            int swap = nums[high];
+            nums[high] = nums[mid];
+            nums[mid] = swap;
+            high--;
+        }
+       }
+    }
+}
+
+48. Rotate Image
+
+class Solution {
+    public void rotate(int[][] matrix) {
+        int n = matrix.length;
+        int m = matrix[0].length;
+
+        for(int i =0;i<n;i++){
+            for(int j =i+1;j<m;j++){
+                int swap = matrix[i][j];
+                matrix[i][j] = matrix[j][i];
+                matrix[j][i] = swap;
+            }
+        }
+        for(int i =0;i<n;i++){
+            for(int start =0,end = m-1;start<end;start++,end--){
+                 int swap = matrix[i][start];
+                 matrix[i][start] = matrix[i][end];
+                 matrix[i][end] = swap;
+            }
+        }
+    }
+}
+
+56. Merge Intervals
+
+class Solution {
+    public int[][] merge(int[][] intervals) {
+        int n = intervals.length;
+        Arrays.sort(
+            intervals,
+            (a, b) -> Integer.compare(a[0], b[0])
+        );
+        List<int[]> merged = new ArrayList<>();
+        int[] arr = new int[2]; 
+        arr = intervals[0];
+        for(int i=0;i<n;i++){
+            
+            if(i<n-1 && intervals[i][1]>=intervals[i+1][0] ){
+                 
+                if(intervals[i][1] <= intervals[i+1][1]){
+                 arr[1] = intervals[i+1][1];
+                }
+            }
+            else{
+                merged.add(arr);
+               arr = intervals[i];
+                
+            }
+            merged.add(arr);
+        }
+        return merged.toArray(new int[merged.size()][]);
+
+    }
+}
