@@ -165,3 +165,365 @@ class Solution {
 
     }
 }
+
+88. Merge Sorted Array
+
+class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        int i = m-1;
+        int j = n-1;
+        int ind = m+n-1;
+        while(j>=0){
+            if(i>=0 && nums1[i]>=nums2[j]){
+                nums1[ind] = nums1[i];
+                i--;
+                ind--;
+            }
+            else{
+                nums1[ind] = nums2[j];
+                j--;
+                ind--;
+            }
+        }
+    }
+}
+
+287. Find the Duplicate Number
+
+class Solution {
+    public int findDuplicate(int[] nums) {
+        int n = nums.length;
+        int[] hash = new int[n];
+        int ans = -1;
+        for(int i =0;i<n;i++){
+            hash[nums[i]]++;
+            if(hash[nums[i]]>1){
+                ans =  nums[i];
+                break;
+            }
+        }
+        return ans;
+    }
+}
+
+74. Search a 2D Matrix
+
+class Solution {
+    public boolean searchMatrix(int[][] matrix, int target) {
+        
+        int n = matrix.length;
+        int m = matrix[0].length;
+        for(int i =0;i<n;i++){
+            for(int j =0;j<m;j++){
+                if(matrix[i][j]==target){
+                    return true;
+                }
+            }
+        }
+        return false;
+
+    }
+}
+
+50. Pow(x, n)
+
+class Solution {
+    public double myPow(double x, int pow) {
+        double ans = 1.00;
+        long n = pow; // use long to prevent overflow
+        if (n == 0) return 1.0;
+        if(n<0){
+            n = n*-1;
+        }
+        while(n>0){
+            if(n%2==1){
+                n = n - 1;
+                ans = ans * x;
+            }
+            else{
+                n=n/2;
+                x=x*x;
+            }
+        }
+        if(pow<0){
+            ans = 1/ans;
+        }
+        return ans;
+    }
+}
+
+229. Majority Element II
+
+class Solution {
+    public List<Integer> majorityElement(int[] nums) {
+        List<Integer> ans = new ArrayList<>();
+        int n = nums.length;
+        int count1 = 0;
+        int ele1 = Integer.MIN_VALUE;
+        int count2 = 0;
+        int ele2 = Integer.MIN_VALUE;
+        for(int i =0;i<n;i++){
+            if(count1 == 0 && nums[i]!=ele2){
+                ele1 = nums[i];
+                count1++;
+            }
+            else if(count2 == 0 && nums[i]!=ele1){
+                ele2 = nums[i];
+                count2++;
+            }
+            else if(ele1 == nums[i]){
+                count1++;
+            }
+            else if(ele2 == nums[i]){
+                count2++;
+            }
+            else{
+                count1--;
+                count2--;
+            }
+        }
+        count1 =0;
+        count2 =0;
+        for(int i =0;i<n;i++){
+            if(ele1==nums[i]) count1++;
+            if(ele2==nums[i]) count2++;
+        }
+        if(count1>(int)n/3 ) {
+            ans.add(ele1);
+        }
+        if(count2>(int)n/3){
+            ans.add(ele2);
+        }
+        return ans;
+    }
+}
+
+169. Majority Element
+
+class Solution {
+    public int majorityElement(int[] nums) {
+        int n = nums.length;
+        int count = 0;
+        int ele = nums[0];
+        for(int i =0;i<n;i++){
+            if(count == 0){
+                ele = nums[i];
+                count++;
+            }
+            else if(ele == nums[i]){
+                count++;
+            }
+            else{
+                count--;
+            }
+        }
+        count =0;
+        for(int i =0;i<n;i++){
+            if(ele==nums[i]) count++;
+        }
+        if(count>n/2) {
+            return ele;
+        }
+        return -1;
+    }
+}
+
+128. Longest Consecutive Sequence
+
+class Solution {
+    public int longestConsecutive(int[] nums) {
+        if (nums.length == 0) return 0;
+        Arrays.sort(nums);
+        int n = nums.length;
+        int count = 1;
+        int max = 1;
+        int i =0;
+        while(i<n-1){
+            if(nums[i]==nums[i+1] ){
+                i++;
+                continue;
+            }
+            else if(nums[i+1]==nums[i]+1){
+                count++; 
+                i++;  
+            }
+            else{
+                max = Math.max(count,max);
+                count = 1;
+                i++;
+            }
+            
+        }
+        max = Math.max(count,max);
+        return max;
+
+    }
+}
+
+3. Longest Substring Without Repeating Characters
+
+class Solution {
+    public int lengthOfLongestSubstring(String s) {
+        Map<Character,Integer> map = new HashMap<>();
+        int left =0, right =0,len = 0, n = s.length();
+        while(right<n){
+            if(map.containsKey(s.charAt(right))){
+                left = Math.max(map.get(s.charAt(right))+1,left);
+            }
+            map.put(s.charAt(right),right);
+            len = Math.max(len,right-left+1);
+            right++;
+        }
+        return len;
+    }
+}
+
+19. Remove Nth Node From End of List
+
+class Solution {
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+
+        ListNode slow = head;
+        ListNode fast = head;
+
+        for(int i = 1; i <= n; i++){
+            fast = fast.next;
+        }
+        if(fast == null) return head.next;
+        while(true){
+            if(fast.next==null){
+            slow.next = slow.next.next;
+            break;
+            }
+            fast = fast.next;
+            slow = slow.next;
+        }
+        return head;
+    }
+}
+
+2. Add Two Numbers
+
+class Solution {
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        ListNode dummy = new ListNode(); 
+        ListNode temp = dummy;
+        int carry = 0;
+        while(l1!=null || l2 != null || carry==1 ){
+
+             int sum = 0; 
+            if(l1 != null) {
+                sum += l1.val; 
+                l1 = l1.next; 
+            }
+            
+            if(l2 != null) {
+                sum += l2.val; 
+                l2 = l2.next; 
+            }
+            sum += carry; 
+            carry = sum / 10;
+            ListNode node = new ListNode(sum % 10);
+            temp.next = node; 
+            temp = temp.next;
+        }
+        return dummy.next;
+
+    }
+}
+
+237. Delete Node in a Linked List
+
+class Solution {
+    public void deleteNode(ListNode node) {
+       node.val = node.next.val;
+       node.next = node.next.next; 
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
