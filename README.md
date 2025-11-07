@@ -37,3 +37,15 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 ---
 
 **“Consistency is greater than intensity — one step every day leads to massive growth.”**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0206-reverse-linked-list) |
+<!---LeetCode Topics End-->
