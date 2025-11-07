@@ -30,7 +30,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 ## 🌟 Connect With Me
 
 - 💼 GitHub: https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge
-- 🐦 LinkedIn: https://www.linkedin.com/in/kaneshkha-t-%F0%9F%93%88-905a12281/
+- 🐦 LinkedIn: linkedin.com/in/kaneshkha-t-905a12281
      LeetCode : https://leetcode.com/u/Kaneshkhaa_T/
 - ✉️ Email: kaneshkhaoffc@gmail.com
 
