@@ -43,6 +43,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -56,5 +57,6 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
