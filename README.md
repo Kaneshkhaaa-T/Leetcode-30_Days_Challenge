@@ -80,4 +80,20 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0258-add-digits) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
