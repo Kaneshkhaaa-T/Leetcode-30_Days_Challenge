@@ -84,16 +84,20 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
