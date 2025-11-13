@@ -47,6 +47,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0061-rotate-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
