@@ -75,10 +75,12 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0258-add-digits) |
+| [1806-count-of-matches-in-tournament](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/1806-count-of-matches-in-tournament) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0258-add-digits) |
+| [1806-count-of-matches-in-tournament](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/1806-count-of-matches-in-tournament) |
 ## Number Theory
 |  |
 | ------- |
