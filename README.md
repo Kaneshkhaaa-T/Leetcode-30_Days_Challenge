@@ -67,6 +67,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0015-3sum) |
+| [0078-subsets](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0090-subsets-ii) |
 ## Sorting
 |  |
@@ -139,9 +140,11 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
