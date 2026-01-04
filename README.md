@@ -72,6 +72,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0053-maximum-subarray](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0118-pascals-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -160,4 +161,5 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
