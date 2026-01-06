@@ -13,8 +13,15 @@ class Solution {
                         int k = j + 1;
                         int l = nums.length - 1;
                         while (k < l) {
+                            if (k > j + 1 && nums[k] == nums[k - 1]) {
+                                k++;
+                                continue;
+                            }
+                            if (l < nums.length - 1 && nums[l] == nums[l + 1]) {
+                                    l--;
+                                    continue;
+                            } 
                             long sum = (long) nums[i] + nums[j] + nums[k] + nums[l];
-
                             if (sum == target) {
                                 List<Integer> list = new ArrayList<>();
                                 list.add(nums[i]);
