@@ -57,6 +57,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -77,12 +78,14 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0078-subsets](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +168,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,4 +178,8 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0496-next-greater-element-i) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
