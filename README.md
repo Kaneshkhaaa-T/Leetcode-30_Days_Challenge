@@ -66,6 +66,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0018-4sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -182,4 +183,8 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
