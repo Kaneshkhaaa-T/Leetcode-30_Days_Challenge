@@ -81,6 +81,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0118-pascals-triangle](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +151,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 ## Binary Search Tree
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Backtracking
