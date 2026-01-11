@@ -64,6 +64,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | ------- |
 | [0015-3sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0151-reverse-words-in-a-string) |
@@ -72,6 +73,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | ------- |
 | [0015-3sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0046-permutations) |
