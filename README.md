@@ -111,6 +111,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
@@ -194,6 +195,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
