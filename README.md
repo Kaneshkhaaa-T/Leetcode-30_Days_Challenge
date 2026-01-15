@@ -58,6 +58,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -93,6 +94,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0015-3sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0455-assign-cookies) |
 ## Math
 |  |
@@ -197,6 +199,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
