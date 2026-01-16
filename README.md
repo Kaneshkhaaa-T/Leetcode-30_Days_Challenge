@@ -100,6 +100,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0258-add-digits) |
+| [0371-sum-of-two-integers](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0371-sum-of-two-integers) |
 | [1806-count-of-matches-in-tournament](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/1806-count-of-matches-in-tournament) |
 ## Simulation
 |  |
@@ -176,6 +177,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | ------- |
 | [0078-subsets](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0090-subsets-ii) |
+| [0371-sum-of-two-integers](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
