@@ -58,6 +58,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
@@ -84,6 +85,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0090-subsets-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0496-next-greater-element-i) |
@@ -94,6 +96,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0015-3sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0455-assign-cookies) |
 ## Math
