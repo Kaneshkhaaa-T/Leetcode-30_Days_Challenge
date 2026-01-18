@@ -70,6 +70,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0061-rotate-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0455-assign-cookies) |
 ## Array
 |  |
@@ -86,6 +87,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0118-pascals-triangle](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0496-next-greater-element-i) |
