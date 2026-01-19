@@ -60,6 +60,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -87,6 +88,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0118-pascals-triangle](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0485-max-consecutive-ones) |
@@ -100,12 +102,14 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0371-sum-of-two-integers) |
 | [1806-count-of-matches-in-tournament](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/1806-count-of-matches-in-tournament) |
 ## Simulation
@@ -167,6 +171,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -183,6 +188,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | ------- |
 | [0078-subsets](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
 |  |
