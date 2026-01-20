@@ -57,6 +57,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0217-contains-duplicate) |
@@ -110,6 +111,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0371-sum-of-two-integers) |
@@ -213,6 +215,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0242-valid-anagram) |
