@@ -1,24 +1,25 @@
 class Solution {
-     
-    public int reverse(int n) {
-        int num = 0;
-        int x = n;
-        if(n<0) x= x*-1;
-        while(x>0){
-            int mod = x%10;
-            x = x/10;
-            if (num > Integer.MAX_VALUE / 10 ||
-               (num == Integer.MAX_VALUE / 10 && mod > 7)) {
+    public int reverse(int x) {
+        int reverse = 0;
+
+        while (x != 0) {
+            int digit = x % 10;
+            x = x / 10;
+
+            // Check overflow
+            if (reverse > Integer.MAX_VALUE / 10 ||
+               (reverse == Integer.MAX_VALUE / 10 && digit > 7)) {
                 return 0;
             }
 
-            if (num < Integer.MIN_VALUE / 10 ||
-               (num == Integer.MIN_VALUE / 10 && mod < -8)) {
+            if (reverse < Integer.MIN_VALUE / 10 ||
+               (reverse == Integer.MIN_VALUE / 10 && digit < -8)) {
                 return 0;
             }
-            num = (num*10)+mod;
+
+            reverse = reverse * 10 + digit;
         }
-        if(n<0) num=num*-1;
-        return num;
+
+        return reverse;
     }
 }
