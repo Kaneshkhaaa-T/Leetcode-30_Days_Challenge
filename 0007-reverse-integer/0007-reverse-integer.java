@@ -1,11 +1,5 @@
 class Solution {
-     static {
-        Runtime.getRuntime().addShutdownHook(new Thread(() -> {
-            try (FileWriter w = new FileWriter("display_runtime.txt")) {
-                w.write("-0");
-            } catch (Exception e) {}
-        }));
-    }
+     
     public int reverse(int n) {
         int num = 0;
         int x = n;
