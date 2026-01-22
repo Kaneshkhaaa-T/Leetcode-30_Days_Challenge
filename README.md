@@ -71,6 +71,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0018-4sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0283-move-zeroes) |
@@ -218,6 +219,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0242-valid-anagram) |
 ## Greedy
