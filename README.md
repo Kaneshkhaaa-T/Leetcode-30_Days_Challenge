@@ -54,6 +54,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0007-reverse-integer](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0371-sum-of-two-integers) |
@@ -194,6 +196,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | ------- |
 | [0078-subsets](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
