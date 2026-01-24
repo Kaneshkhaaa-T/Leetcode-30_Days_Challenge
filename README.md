@@ -84,6 +84,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0015-3sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0046-permutations) |
@@ -179,6 +180,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0783-search-in-a-binary-search-tree) |
