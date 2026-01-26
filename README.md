@@ -1,4 +1,4 @@
-# 💪 30 Days LeetCode Medium Challenge (Nov 1 – Dec 1) As Beginner
+💪 30 Days LeetCode Medium Challenge (Nov 1 – Dec 1) As Beginner
 
 Welcome to my **30 Days LeetCode Medium Challenge!**  
 From **November 1st to December 1st**, I’m solving **3 Medium-level LeetCode problems every day** — focusing on core **Data Structures & Algorithms** concepts.
