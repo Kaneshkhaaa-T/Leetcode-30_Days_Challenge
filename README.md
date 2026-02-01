@@ -58,6 +58,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
@@ -81,6 +82,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
