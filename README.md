@@ -8,7 +8,6 @@ This challenge is designed to:
 - Improve my **coding efficiency** and **logical reasoning**  
 - Build **daily consistency** with hands-on practice  
 
-
 ---
 
 ## 🚀 Goals
