@@ -10,7 +10,7 @@ This challenge is designed to:
 
 ---
 
-## 🚀 Goals
+## Goals
 - 🧩 Master Medium-level problem patterns  
 - 🕒 Maintain daily problem-solving discipline  
 - 🧠 Build strong DSA intuition  
