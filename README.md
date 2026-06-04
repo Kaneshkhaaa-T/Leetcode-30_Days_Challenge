@@ -75,6 +75,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0142-linked-list-cycle-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Array
@@ -97,6 +98,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0217-contains-duplicate](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0496-next-greater-element-i) |
@@ -183,6 +185,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | ------- |
 | [0035-search-insert-position](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -201,6 +204,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0090-subsets-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
 |  |
