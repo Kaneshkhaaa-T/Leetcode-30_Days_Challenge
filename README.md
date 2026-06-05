@@ -90,6 +90,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0040-combination-sum-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0118-pascals-triangle) |
@@ -184,6 +185,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -237,4 +239,8 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0455-assign-cookies) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
