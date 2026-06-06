@@ -121,6 +121,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0007-reverse-integer](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
@@ -220,6 +221,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Monotonic Stack
@@ -262,4 +264,8 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0493-reverse-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
