@@ -102,6 +102,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0287-find-the-duplicate-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
@@ -188,6 +189,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0074-search-a-2d-matrix](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -213,6 +215,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,4 +246,20 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0074-search-a-2d-matrix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
