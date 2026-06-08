@@ -57,6 +57,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0169-majority-element) |
@@ -235,6 +236,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0125-valid-palindrome) |
@@ -268,4 +270,8 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0062-unique-paths) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
