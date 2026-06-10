@@ -42,6 +42,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0206-reverse-linked-list) |
@@ -51,6 +52,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0231-power-of-two) |
 ## Hash Table
