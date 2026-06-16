@@ -105,6 +105,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0268-missing-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0493-reverse-pairs) |
@@ -188,6 +189,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0100-same-tree](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0322-coin-change) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -229,6 +231,7 @@ gained deeper understanding of **core DSA concepts**, and built a solid foundati
 | [0062-unique-paths](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/Kaneshkhaaa-T/Leetcode-30_Days_Challenge/tree/master/0322-coin-change) |
 ## Monotonic Stack
 |  |
 | ------- |
